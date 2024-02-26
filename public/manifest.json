@@ -1,0 +1,17 @@
+{
+  "id": "123123123",
+  "name": "Helping Tools",
+  "short_name": "tools",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/bird.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
